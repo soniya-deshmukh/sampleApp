@@ -5,6 +5,7 @@
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
                 <h2>Laravel 8 CRUD n Git!! Example from scratch - ItSolutionStuff.com</h2>
+                <h2>Laravel 8  Git!! Example from scratch - ItSolutionStuff.com</h2>
                 
             </div>
             <div class="pull-right">
