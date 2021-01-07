@@ -5,8 +5,7 @@
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
                 <h2>Laravel 8 CRUD n Git!! Example from scratch - ItSolutionStuff.com</h2>
-                <h2>Laravel 8 CRUD n Git!! in soniya branch</h2>
-                <h2>Laravel 8 CRUD n Git!! in soniya branch again</h2>
+                
             </div>
             <div class="pull-right">
                 <a class="btn btn-success" href="{{ route('products.create') }}"> <span class="glyphicon glyphicon-plus"></span> Create New Product</a>
