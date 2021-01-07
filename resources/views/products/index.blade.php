@@ -26,7 +26,7 @@
 
     <table class="table table-bordered">
         <tr>
-            <th>NO</th>
+            <th>NO</th> 
             <th>@sortablelink('name')</th>
             <th>@sortablelink('detail')</th>
             <th width="280px">Action</th>
